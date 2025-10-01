@@ -129,10 +129,11 @@ This evaluation confirms that randomly generated passwords of sufficient length 
 ## Evidence / Artifacts
 
 **Kaspersky generation (redacted recommended):**  
-`![Kaspersky Generation Redacted](images/kaspersky_generated_password.png)`
+'![](images/1.png)
 
 **Bitwarden strength test result:**  
-`![Bitwarden Strength Result](images/bitwarden_strength_result.png)`
+'![](images/2.png)
+'![](images/3.png)
 
 ---
 
